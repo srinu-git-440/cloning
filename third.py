@@ -1,3 +1,3 @@
-s1='python'
-s2='java'
+s1='python language'
+s2='java language'
 print(s1+s2)
